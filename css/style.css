@@ -1,5 +1,5 @@
 body{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Baloo 2', cursive; 
     background-color: #5ff2cd;
     font-size: 20px;
     text-align: center;
@@ -7,6 +7,15 @@ body{
 }
 header {
     text-align: center;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family:"Bebas Neue";
+        font-size: 40pt;
+        text-align: center;
+    }
+    h1 {
+        font-size: 60px;
     }
 
     #hero, footer {
