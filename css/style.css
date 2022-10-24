@@ -1,6 +1,6 @@
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #EBAB52;
+    background-color: #5ff2cd;
     font-size: 20px;
     text-align: center;
     color: black;
@@ -10,9 +10,9 @@ header {
     }
 
     #hero, footer {
-        color: #186A9E;
-        border: 5px solid#186A9E;
-        background-color: #EBAB52;
+        color: white;
+        border: 5px solid #000;
+        background-color:#11b0bf;
         text-align: center;
         padding:10px;
     }
