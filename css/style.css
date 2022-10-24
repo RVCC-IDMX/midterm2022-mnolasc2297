@@ -29,3 +29,8 @@ header {
     #hero img {
         width: 300px;
     }
+
+#reviews {
+    max-width: 20px;
+    text-align: center;
+}
